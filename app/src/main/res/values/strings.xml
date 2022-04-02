@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Push up keep fit</string>
+    <string name="NoFace">Current result：Not any face found</string>
+    <string name="FoundFace">Current result：Found ace</string>
+</resources>
